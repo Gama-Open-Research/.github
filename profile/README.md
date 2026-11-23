@@ -13,11 +13,8 @@
     All datasets and experiments linked to published papers are permanently archived with a <b>Zenodo DOI</b>.
   </p>
   <p>
-    <a href="https://orcid.org/0009-0000-3113-9820">ORCID</a> •
-    <a href="https://www.linkedin.com/in/gabriel-gama-6301633b2/">LinkedIn</a> •
     <a href="https://github.com/BRAN-Org">BRAN Org</a> •
     <a href="https://github.com/GabrielBaiano">GitHub</a> •
-    <a href="mailto:gabrielngama@gmail.com">E-Mail</a> •
     <a href="https://gabrielbaiano.vercel.app/">Portfolio</a>
   </p>
   <br>
