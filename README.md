@@ -1,34 +1,34 @@
 <div align="center">
   <br>
+  <br>
   <a href="https://orcid.org/0009-0000-3113-9820">
-    <img width="220" height="220" src="https://raw.githubusercontent.com/Gama-Open-Research/.github/main/assets/gabriel_gama.png" alt="Gabriel Gama" />
+    <img width="250" height="250" src="https://raw.githubusercontent.com/Gama-Open-Research/.github/main/assets/gabriel_gama.png" style="border-radius:50%" alt="Gabriel Gama" />
   </a>
   <br>
   <br>
-  <b>Gama Open Research</b> — Hi, I'm <b>Gabriel Gama</b>, researcher & developer from Brazil!
+  Hi, I'm <b>Gabriel Gama</b> — welcome to <b>Gama Open Research</b>!
   <p>
-    This organization is dedicated to storing my academic research, including datasets, analytical pipelines,<br>
-    methodological notes, and all artifacts relevant to scientific reproducibility.<br>
-    <i>Any data and experiments used in academic publications will feature a persistent <b>DOI via Zenodo</b> for easy identification.</i>
+    Dedicated to storing my academic research, datasets, analytical pipelines, notes, and reproducibility artifacts.<br>
+    All datasets and experiments used in academic publications feature a persistent <b>DOI via Zenodo</b> for easy identification.
   </p>
   <p>
-    <a href="https://orcid.org/0009-0000-3113-9820">ORCID (0009-0000-3113-9820)</a> ·
-    <a href="https://www.linkedin.com/in/gabriel-gama-6301633b2/">LinkedIn</a> ·
-    <a href="https://github.com/BRAN-Org">BRAN Org</a> ·
-    <a href="https://github.com/GabrielBaiano">GitHub</a> ·
-    <a href="mailto:gabrielngama@gmail.com">E-Mail</a> ·
+    <a href="https://orcid.org/0009-0000-3113-9820">ORCID</a> •
+    <a href="https://www.linkedin.com/in/gabriel-gama-6301633b2/">LinkedIn</a> •
+    <a href="https://github.com/BRAN-Org">BRAN Org</a> •
+    <a href="mailto:gabrielngama@gmail.com">E-Mail</a> •
     <a href="https://gabrielbaiano.vercel.app/">Portfolio</a>
   </p>
   <br>
+  <br>
 </div>
 
-<details open>
-<summary><b>BRAN Org — Open Research Infrastructure & Tools...</b></summary>
+<details>
+<summary>BRAN Org & Open Science Tools...</summary>
 <br>
 
 Looking for our open-source scientific packages, REST APIs, and curated Brazilian bibliometric databases? Visit **[BRAN Org (Brazilian Research Archive Network)](https://github.com/BRAN-Org)**:
 
-| **BRAN Org Projects** | **Homepage / DOI** | **Stars** | **Description** |
+| **BRAN Org & Tools** | **Homepage / DOI** | **Stars** | **Description** |
 | --- | --- | --- | --- |
 | [bibliolatam](https://github.com/BRAN-Org/bibliolatam) | [`10.5281/zenodo.23623700`](https://doi.org/10.5281/zenodo.23623700) | [![GitHub stars](https://img.shields.io/github/stars/BRAN-Org/bibliolatam?style=flat&label=)](https://github.com/BRAN-Org/bibliolatam/stargazers) | Latin American Bibliographic Data Parsers for bibliometrix · R package & Shiny app |
 | [enancib-open-database](https://github.com/BRAN-Org/enancib-open-database) | [`#github`](https://github.com/BRAN-Org/enancib-open-database) | [![GitHub stars](https://img.shields.io/github/stars/BRAN-Org/enancib-open-database?style=flat&label=)](https://github.com/BRAN-Org/enancib-open-database/stargazers) | Audited open database & REST API for ENANCIB proceedings (1994–2026) |
@@ -38,22 +38,20 @@ Looking for our open-source scientific packages, REST APIs, and curated Brazilia
 
 </details>
 
-<br>
-
 <kbd>[**ORCID**](https://orcid.org/0009-0000-3113-9820)</kbd>
 <kbd>[**BRAN Org**](https://github.com/BRAN-Org)</kbd>
 <kbd>[**Bibliolatam**](https://github.com/BRAN-Org/bibliolatam)</kbd>
 <kbd>[**LinkedIn**](https://www.linkedin.com/in/gabriel-gama-6301633b2/)</kbd>
-<kbd>[**GitHub (@GabrielBaiano)**](https://github.com/GabrielBaiano)</kbd>
+<kbd>[**GitHub**](https://github.com/GabrielBaiano)</kbd>
 <kbd>[**Portfolio**](https://gabrielbaiano.vercel.app/)</kbd>
 
 <br />
 <a href="https://github.com/BRAN-Org">
   <table align="right">
-    <tr>
-      <td>
-        🔬 &nbsp;&nbsp;Explore BRAN Org & Open Science Tools
-      </td>
-    </tr>
+      <tr>
+          <td>
+            🚀 &nbsp;&nbsp;Explore BRAN Org & Open Science Tools
+          </td>
+      </tr>
   </table>
 </a>
