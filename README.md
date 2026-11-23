@@ -6,11 +6,10 @@
   </a>
   <br>
   <br>
-  Hi, I'm <b>Gabriel Gama</b>, researcher & software developer from Brazil!
+  <b>Gabriel Gama</b> · Academic Profile
   <p>
-    This organization serves as the open archive for my academic research — housing datasets, analytical pipelines,<br>
-    research notes, and replication materials built for full scientific reproducibility.<br>
-    All datasets and experiments linked to published papers are permanently archived with a <b>Zenodo DOI</b>.
+    Public space for my published research, experiments, research notes, and reproducible workflows.<br>
+    All datasets and experiments linked to publications are archived with a <b>Zenodo DOI</b>.
   </p>
   <p>
     <a href="https://github.com/BRAN-Org">BRAN Org</a> •
