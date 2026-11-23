@@ -8,7 +8,7 @@
   <br>
   Hi, I'm <b>Gabriel Gama</b>, researcher & software developer from Brazil!
   <p>
-    This organization serves as the open archive for my academic research — housing datasets, analytical pipelines,<br>
+    This organization serves as the open archive for my academic research, experiments, analytical pipelines,<br>
     research notes, and replication materials built for full scientific reproducibility.<br>
     All datasets and experiments linked to published papers are permanently archived with a <b>Zenodo DOI</b>.
   </p>
