@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use datasets, pipelines, or replication materials from Gama Open Research, please cite as below."
+authors:
+  - family-names: "Gama"
+    given-names: "Gabriel"
+    orcid: "https://orcid.org/0009-0000-3113-9820"
+    email: "gabrielngama@gmail.com"
+title: "Gama Open Research: Academic Research Compendia, Datasets, and Reproducible Pipelines"
+date-released: 2026-11-23
+url: "https://github.com/Gama-Open-Research"
+repository-code: "https://github.com/Gama-Open-Research/.github"
+keywords:
+  - open-science
+  - reproducible-research
+  - scientometrics
+  - bibliometrics
+  - research-compendium
+  - zenodo
